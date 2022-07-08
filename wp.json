@@ -1,7 +1,7 @@
 {
   
   
-  "ENABLE_Ads":true,
+  "ENABLE_Ads":false,
 	"APP_KEY": "fS4561",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
