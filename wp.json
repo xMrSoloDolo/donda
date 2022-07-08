@@ -1,7 +1,7 @@
 {
   
   
-  "ENABLE_Ads":false,
+  "ENABLE_Ads":true,
 	"APP_KEY": "fS4561",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
@@ -19,7 +19,7 @@
 	"UNITY_GAME_ID": "3916749",
 	"UNITY_TEST_MODE": false,
 
-	"SwitchAds": 2,
+	"SwitchAds": 1,
 
 	"MoreApps": "64858",
 
@@ -47,7 +47,7 @@
 	"isPage6Activate": false,
 	
 	//cpa image banner
-    "Visibility_image_cpa":true,
+    "Visibility_image_cpa":false,
     "Url_Image_Cpa":"https://smrturl.co/o/132730/53177516",
     "Image_View_cpa":"https://sportsworldrunningclub.com/wp-content/uploads/2019/04/Click-here-to-Enter-Button-IMG.jpg",
 
@@ -56,7 +56,7 @@
 		{
 			"title": "Warby Parker",
 			"image": "https://raw.githubusercontent.com/xMrSoloDolo/images2/main/wp.png",
-			"url": "http://alturl.com/48ago"
+			"url": "http://"
 		}
 
 	]
