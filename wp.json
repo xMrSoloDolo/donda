@@ -27,11 +27,11 @@
 	"popAppName": "Get Free Gift Card",
 	"popAppImage": "https://i.ibb.co/9b3PVt0/shoegift.jpg",
 	"popAppPackage": "",
-	"popAppIsActive": true,
+	"popAppIsActive": false,
 	"Interval_Time":40000, 
 
 	"isPage1Activate": true,
-	"isPage2Activate": false,
+	"isPage2Activate": true,
 	"isPage3Activate": false,
 	"isPage4Activate": false,
     	//content Page 4
@@ -56,7 +56,7 @@
 		{
 			"title": "Warby Parker",
 			"image": "https://raw.githubusercontent.com/xMrSoloDolo/images2/main/wp.png",
-			"url": "http://"
+			"url": "http://alturl.com/3n564"
 		}
 
 	]
