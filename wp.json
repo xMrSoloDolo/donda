@@ -10,9 +10,9 @@
 	"ADMOB_INTERSTITIAL": "ca-app-pub-3940256099942544/1033173712",
 
 	"APPLOVIN_BANNER_ID": "004f6b4df46c9defe",
-	"APPLOVIN_INTERSTITIAL_ID": "afe265effcf93494",
-	"APPLOVIN_INTERSTITIAL_ONBACK":"247575456a9",
-	"ENABLE_ONBACK_ADS":false,
+	"APPLOVIN_INTERSTITIAL_ID": "63aa8c1220bdb459",
+	"APPLOVIN_INTERSTITIAL_ONBACK":"afe265effcf93494",
+	"ENABLE_ONBACK_ADS":true,
 
 	"UNITY_BANNER": "Android_Banner",
 	"UNITY_INTERSTITIAL": "Android_Interstitial",
@@ -31,11 +31,11 @@
 	"Interval_Time":40000, 
 
 	"isPage1Activate": true,
-	"isPage2Activate": true,
+	"isPage2Activate": false,
 	"isPage3Activate": false,
-	"isPage4Activate": false,
+	"isPage4Activate": true,
     	//content Page 4
-	"textPage4":"have you ever bought from big lots online Before?",
+	"textPage4":"have you ever bought from warby parker online?",
 	"button1Page4":"yes",
 	"button2Page4":"no",
 	"isPage5Activate": false,
