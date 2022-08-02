@@ -1,7 +1,7 @@
 {
   
   
-  "ENABLE_Ads":false,
+  "ENABLE_Ads":true,
 	"APP_KEY": "fS4561",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
@@ -9,8 +9,8 @@
 	"ADMOB_BANNER": "ca-app-pub-3940256099942544/6300978111",
 	"ADMOB_INTERSTITIAL": "ca-app-pub-3940256099942544/1033173712",
 
-	"APPLOVIN_BANNER_ID": "5177875d",
-	"APPLOVIN_INTERSTITIAL_ID": "b4b163685c7b07",
+	"APPLOVIN_BANNER_ID": "583b8bca10d11ce4",
+	"APPLOVIN_INTERSTITIAL_ID": "79cbd970e7e07493",
 	"APPLOVIN_INTERSTITIAL_ONBACK":"247575456a9",
 	"ENABLE_ONBACK_ADS":false,
 
@@ -31,11 +31,11 @@
 	"Interval_Time":40000, 
 
 	"isPage1Activate": true,
-	"isPage2Activate": false,
-	"isPage3Activate": false,
-	"isPage4Activate": false,
+	"isPage2Activate": true,
+	"isPage3Activate": true,
+	"isPage4Activate": true,
     	//content Page 4
-	"textPage4":"have you ever bought from big lots online Before?",
+	"textPage4":"have you ever bought from our store Before?",
 	"button1Page4":"yes",
 	"button2Page4":"no",
 	"isPage5Activate": false,
