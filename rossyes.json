@@ -2,7 +2,7 @@
   
   
   "ENABLE_Ads":true,
-	"APP_KEY": "fS4561",
+	"APP_KEY": "16486db2d",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
@@ -19,7 +19,7 @@
 	"UNITY_GAME_ID": "3916749",
 	"UNITY_TEST_MODE": false,
 
-	"SwitchAds": 2,
+	"SwitchAds": 1,
 
 	"MoreApps": "64858",
 
