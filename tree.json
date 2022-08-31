@@ -19,15 +19,15 @@
 	"UNITY_GAME_ID": "3916749",
 	"UNITY_TEST_MODE": false,
 
-	"SwitchAds": 2,
+	"SwitchAds": 1,
 
 	"MoreApps": "64858",
 
 	"popAppLink": "https://smrturl.co/o/132730/53177516",
 	"popAppName": "Get Free Gift Card",
-	"popAppImage": "https://i.ibb.co/9b3PVt0/shoegift.jpg",
+	"popAppImage": "https://i.ibb.co/hYxZ83x/dolargift.jpg",
 	"popAppPackage": "",
-	"popAppIsActive": false,
+	"popAppIsActive": true,
 	"Interval_Time":40000, 
 
 	"isPage1Activate": true,
